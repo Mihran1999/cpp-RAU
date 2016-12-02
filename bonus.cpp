@@ -5,7 +5,7 @@ int main()
 {
 	int n, m;
 	std::cin >> n >> m;
-	std::vector<std::vector<int>> v(m, std::vector<int>(n)); //matrix
+	std::vector<std::vector<int>> v(m, std::vector<int>(n)); //matrixx
 	int count = 0;
 	for (int i = 0; i < m; ++i)
 	{
